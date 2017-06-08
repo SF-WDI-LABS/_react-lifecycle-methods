@@ -2,7 +2,7 @@
 
 ### Why is this important?
 
-
+When React creates components, it inherently invokes lifecycle methods under the hood. As a developer, it's good to understand them because you may want to perform certain operations when a component is created, updated, or destroyed.
 
 ### What are the objectives?
 
